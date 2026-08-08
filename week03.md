@@ -65,3 +65,13 @@ Klessascheck, F, Weber, I & Pufahl, L 2025, 'SOPA: a framework for sustainabilit
 'Root-cause analysis of business processes: How humans utilize multiple sources of information to explain observations' 2025, Information Systems, vol. 134, October–November, article 102578.
 
 Stierle, M, Kraume, K & Matzner, M 2025, 'Process Analytics – Data-driven Business Process Management', arXiv preprint, 23 December.
+
+AI Use Declaration In accordance with the AI Assessment Scale for this unit, I used AI tools for planning, idea development, and research during the preparation of this e-portfolio. Specifically, I used AI to:
+
+Research Assistance: AI was used to identify relevant scholarly articles, videos, and other artefacts published in 2025 or later that relate to the four weekly journal entry topics. The search process helped locate current resources that align with the lecture content and assessment requirements.
+
+Idea Organisation: AI assisted in structuring the e-portfolio format and ensuring each artefact entry followed the required two-paragraph structure (summary and justification) with appropriate Harvard referencing and page numbers in in-text citations.
+
+Content Refinement: After conducting my own research and developing my understanding of the artefacts, I used AI to help refine and articulate my reflections clearly and concisely, ensuring alignment with the learning outcomes and lecture content.
+
+All final content has been written in my own words, and I have critically evaluated all AI-generated suggestions to ensure accuracy, relevance, and academic integrity. The selection of artefacts and the interpretations presented in the justifications reflect my own understanding of BPM concepts as developed through the unit lectures, tutorials, and independent study.
