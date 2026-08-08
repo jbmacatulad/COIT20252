@@ -1,4 +1,7 @@
 ## Week 4 | Business Process Modelling
+
+**Initial Thoughts**
+
 Weekly Journal Entry 4: Business Process Modelling
 FULL BPMN Training Course for Business Analysts
 Artefact Type: YouTube Video
@@ -67,6 +70,21 @@ This paper explores how business process management can be applied to overcome c
 **Justification**
 
 I selected this artefact because it demonstrates the practical application of business process modelling beyond traditional process documentation, showing how BPM can address cybersecurity challenges. The Week 4 lecture explained that process models can be used for organising, discovery, forecasting, measuring, explaining, verification, and control (Hornsteiner et al., 2025, p. 4). This 2025 paper demonstrates how BPMN can be extended and applied to model security requirements and controls within business processes. This artefact demonstrates my understanding that process modelling is not just about documenting workflows but is a versatile tool that can be applied to various organisational challenges, including security and compliance.
+
+**Commentary:**
+After reviewing this week's lecture materials on Business Process Modelling, I've gained a much deeper appreciation for how organisations document, analyse, and improve their operations. What initially seemed like simple flowcharting has revealed itself to be a sophisticated discipline that combines strategy, technology, and governance.
+
+The business process repository concept was eye‑opening. It's not just a storage place – it's a governed, centralised hub where models are stored, accessed, collaborated on, and measured. Without clear governance (who can view, edit, approve, or retire models), a repository quickly becomes useless. I now see why defining roles and processes upfront is critical.
+
+I also appreciated the five‑dimension framework for scoping process content: Organisation, Functions, Data, Deliverables, and Control. It's a practical checklist to ensure I don't miss important angles when analysing a process.
+
+The distinction between static and dynamic models made sense – static gives a snapshot, dynamic shows change over time. Most projects need both.
+
+On notations, BPMN 2.0 seems the most comprehensive, but swim lane diagrams are intuitively clear for showing who does what. SIPOC (Suppliers, Inputs, Process, Outputs, Customers) offers a great high‑level starting point, especially when first engaging with a new process.
+
+My key takeaway: Modelling is primarily about communication, not documentation. The notation must fit the audience and purpose, not the other way around. Also, repository success should be measured by actual usage and update frequency – not just by having one.
+
+
 
 **Reference List – Week 4**
 'FULL BPMN Training Course for Business Analysts' 2025, YouTube, 30 June, viewed 8 August 2026, https://www.youtube.com/watch?v=RPE55FWjvKE.
