@@ -66,7 +66,7 @@ Klessascheck, F, Weber, I & Pufahl, L 2025, 'SOPA: a framework for sustainabilit
 
 Stierle, M, Kraume, K & Matzner, M 2025, 'Process Analytics – Data-driven Business Process Management', arXiv preprint, 23 December.
 
-AI Use Declaration In accordance with the AI Assessment Scale for this unit, I used AI tools for planning, idea development, and research during the preparation of this e-portfolio. Specifically, I used AI to:
+**AI Use Declaration** In accordance with the AI Assessment Scale for this unit, I used AI tools for planning, idea development, and research during the preparation of this e-portfolio. Specifically, I used AI to:
 
 Research Assistance: AI was used to identify relevant scholarly articles, videos, and other artefacts published in 2025 or later that relate to the four weekly journal entry topics. The search process helped locate current resources that align with the lecture content and assessment requirements.
 
