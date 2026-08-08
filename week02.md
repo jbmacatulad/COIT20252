@@ -1,6 +1,6 @@
-## Week 2 | Business Process Management
+# Week 2 | Business Process Management
 
-#### Business Process Management (BPM) is the discipline of designing, analysing, improving, and governing end‑to‑end business processes so organisations can operate efficiently, consistently, and strategically. At its core, BPM treats processes as business assets—not just tasks—requiring clear ownership, measurable performance, and continuous optimisation.
+### Business Process Management (BPM) is the discipline of designing, analysing, improving, and governing end‑to‑end business processes so organisations can operate efficiently, consistently, and strategically. At its core, BPM treats processes as business assets—not just tasks—requiring clear ownership, measurable performance, and continuous optimisation.
 <img width="463" height="269" alt="image" src="https://github.com/user-attachments/assets/3b4ae9bb-6962-48f4-91b7-e0c76deb61df" />
 
 <img width="466" height="269" alt="image" src="https://github.com/user-attachments/assets/5d2664f7-22bc-4460-9646-1b732c50fd8e" />
