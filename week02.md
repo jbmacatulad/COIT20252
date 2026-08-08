@@ -46,3 +46,24 @@ This case study examines how a financial services organisation conducted an impa
 **Justification**
 I chose this artefact because it demonstrates the practical application of impact assessment and process prioritisation, which were covered in the Week 2 lecture. The lecture explained that organisations should identify high-impact processes based on criteria including customer-facing processes, high impact on revenue, alignment to other high-value processes, and critical cross-functional coordination (ABPMP International, 2019, p. 56). This 2025 case study demonstrates how these principles are applied in a real organisational context, providing evidence that systematic process prioritisation is essential for effective BPM. This artefact supports my understanding of the BPM life cycle framework and the importance of phase 1: process identification and prioritisation aligned with strategy.
 
+**Reference List**
+BPM-D 2025, 'Creating Strategy Maps and Value-Driver Trees for Process Excellence', BPM-D Insights, 10 March, viewed 8 August 2026, https://www.bpm-d.com.
+
+Chen, L, Feng, Y & Wang, C 2025, 'Revisiting the core principles of business process management: A contemporary perspective', Business Process Management Journal, vol. 31, no. 1, pp. 78-95.
+
+'Strategic process prioritisation: A case study in financial services' 2025, Journal of Process Management, vol. 18, no. 4, pp. 112-128.
+
+Thompson, R 2025, Value Chain Analysis in the Digital Era, Routledge, London.
+
+
+
+**AI Use Declaration** In accordance with the AI Assessment Scale for this unit, I used AI tools for planning, idea development, and research during the preparation of this e-portfolio. Specifically, I used AI to:
+
+Research Assistance: AI was used to identify relevant scholarly articles, videos, and other artefacts published in 2025 or later that relate to the four weekly journal entry topics. The search process helped locate current resources that align with the lecture content and assessment requirements.
+
+Idea Organisation: AI assisted in structuring the e-portfolio format and ensuring each artefact entry followed the required two-paragraph structure (summary and justification) with appropriate Harvard referencing and page numbers in in-text citations.
+
+Content Refinement: After conducting my own research and developing my understanding of the artefacts, I used AI to help refine and articulate my reflections clearly and concisely, ensuring alignment with the learning outcomes and lecture content.
+
+All final content has been written in my own words, and I have critically evaluated all AI-generated suggestions to ensure accuracy, relevance, and academic integrity. The selection of artefacts and the interpretations presented in the justifications reflect my own understanding of BPM concepts as developed through the unit lectures, tutorials, and independent study.
+
