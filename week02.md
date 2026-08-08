@@ -13,7 +13,7 @@ I selected this artefact because it directly addresses the Week 2 lecture's cove
 
 **Strategy Maps and Value-Driver Trees in BPM**
 Artefact Type: Video Tutorial
-Source: BPM-D 2025, 'Creating Strategy Maps and Value-Driver Trees for Process Excellence', BPM-D Insights, 10 March, viewed [date], https://www.bpm-d.com.
+Source: BPM-D 2025, 'Creating Strategy Maps and Value-Driver Trees for Process Excellence', BPM-D Insights, 10 March, viewed [8/08/2026], https://www.bpm-d.com.
 
 **Summary**
 
