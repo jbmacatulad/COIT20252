@@ -2,7 +2,16 @@
 
 <img width="728" height="424" alt="image" src="https://github.com/user-attachments/assets/394d246d-abb3-4b0e-977d-908b447c3955" />
 
-Weekly Journal Entry 4: Business Process Modelling
+A good business process repository is a strategic, living asset for BPM rather than a static file cabinet. At its heart it must be centralised so everyone refers to the same authoritative source; this reduces duplication, prevents conflicting versions, and makes governance practical. It should be explicitly designed to store artifacts—process maps, SOPs, data dictionaries, system interfaces, controls, and training materials—so that modelling work links directly to the documents and evidence people need to act.
+
+Being software enabled is essential: the repository should be searchable, metadata‑driven, and provide role‑based views so different stakeholders can find and consume the right level of detail. Equally important is a systematic approach to content: consistent taxonomy, naming conventions, and modelling levels (Level 1–4) let users move from high‑level value chains to task steps without losing context.
+
+A repository must be integration ready, able to reference or connect to ERPs, document stores, APIs, automation engines, and analytics platforms so models can support execution and measurement. It must also be governed—with clear ownership, approval workflows, version control, and audit trails—so quality and compliance are maintained over time.
+
+Standards for the life cycle of content are required: defined states such as draft, review, approved, and retired, with criteria for transitions. Beyond standards, life cycle content must be actively managed through scheduled reviews, retirement rules, and change logs so the repository remains current. Finally, the repository should be initiative supporting, built to serve real use cases—automation, training, audits, M&A—by providing templates, reuse patterns, and traceability to KPIs and projects. When these elements work together, process models become actionable assets that drive continuous improvement and operational agility.
+
+
+**1. Weekly Journal Entry 4: Business Process Modelling**
 FULL BPMN Training Course for Business Analysts
 Artefact Type: YouTube Video
 Source: 'FULL BPMN Training Course for Business Analysts' 2025, YouTube, 30 June, viewed 8 August 2026, https://www.youtube.com/watch?v=RPE55FWjvKE.
@@ -35,7 +44,7 @@ This comprehensive YouTube video provides an extensive BPMN training course desi
 
 I chose this artefact because it directly addresses the Week 4 lecture's focus on business process modelling notations, particularly BPMN 2.0 as a standard for process representation. The lecture explained that process models visually depict workflow, dependencies, and sequencing of activities, and that BPMN provides benefits including easier communication, simplified design, and the ability to import and export process models among various tools (FULL BPMN Training Course, 2025). This 2025 video tutorial provides accessible, practical instruction that reinforces these concepts, making it an excellent learning resource. This artefact demonstrates my understanding of how process modelling notations enable easier communication and simplify the design and analysis of business processes.
 
-### BPMN Business Process Modeling for Beginners – Tool Rental
+### 2. BPMN Business Process Modeling for Beginners – Tool Rental
 Artefact Type: Video Tutorial
 Source: Hense, A 2025, 'BPMN Business Process Modeling for Beginners – Tool Rental', BPMN Series, video #49, Zenodo, 27 May, viewed 8 August 2026, https://youtu.be/HEdoyk4GKho.
 
@@ -47,7 +56,7 @@ This tutorial provides a step-by-step introduction to business process modelling
 
 This artefact was selected because it exemplifies the practical application of business process modelling as covered in the Week 4 lecture. The lecture explained that process models are formal representations of business processes that visually depict workflow, dependencies, and sequencing of activities (Hense, 2025). This 2025 tutorial demonstrates exactly how to create such representations using BPMN, with a realistic end-to-end example that illustrates all key modelling elements. This artefact shows my understanding that processes typically begin on the left-hand side of diagrams and proceed to the right, and that modelling requires careful consideration of events, activities, and gateways to accurately represent business processes.
 
-### Visualising Business Processes: Swim Lane Diagrams and Flow Charts in Practice
+### 3. Visualising Business Processes: Swim Lane Diagrams and Flow Charts in Practice
 Artefact Type: eBook
 Source: Harrison, M 2025, Visualising Business Processes: Swim Lane Diagrams and Flow Charts in Practice, Springer, Cham.
 
@@ -59,7 +68,7 @@ This book provides comprehensive coverage of swim lane diagrams and flow charts 
 
 I selected this artefact because it addresses the Week 4 lecture's coverage of swim lane diagrams as a specific modelling approach. The lecture explained that swim lane diagrams use lanes to represent different participants, with events triggering and terminating processes, and the top swim lane typically reserved for the customer or entity that initiates the process (Harrison, 2025, p. 78). This 2025 book demonstrates how swim lane diagrams are constructed and used in practice, reinforcing the lecture's emphasis on models as tools for organising, discovery, forecasting, measuring, explaining, verification, and control (Harrison, 2025, p. 23). This artefact supports my understanding of how static models represent a single state of a business process and are essential for documenting and analysing current operations.
 
-### A Reflection on Process-Oriented Industrial IoT Security Management
+### 4. A Reflection on Process-Oriented Industrial IoT Security Management
 Artefact Type: Conference Paper
 Source: Hornsteiner, M, Kölbel, L, Oberhofer, D & Schönig, S 2025, 'A Reflection on Process-Oriented Industrial IoT Security Management', International Conference on Information Systems Security and Privacy.
 
