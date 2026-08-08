@@ -3,7 +3,7 @@
 - Student Name: Jan Bernard Macatulad
 - Student ID: 12295671
 - Campus: Melbourne
-- Unit Coordinator / Tutor: Dr. Ahsan Morshed
+- Unit Coordinator / Tutor: Dr. Ahsan Morshed | Naveed Ali
 
 - ## Weekly Journal Entries
 1. [The BPM Professional & BPM CBOK®](./week01.md)
