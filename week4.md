@@ -1,6 +1,6 @@
 ## Week 4 | Business Process Modelling
 
-**Initial Thoughts**
+<img width="728" height="424" alt="image" src="https://github.com/user-attachments/assets/394d246d-abb3-4b0e-977d-908b447c3955" />
 
 Weekly Journal Entry 4: Business Process Modelling
 FULL BPMN Training Course for Business Analysts
@@ -71,7 +71,7 @@ This paper explores how business process management can be applied to overcome c
 
 I selected this artefact because it demonstrates the practical application of business process modelling beyond traditional process documentation, showing how BPM can address cybersecurity challenges. The Week 4 lecture explained that process models can be used for organising, discovery, forecasting, measuring, explaining, verification, and control (Hornsteiner et al., 2025, p. 4). This 2025 paper demonstrates how BPMN can be extended and applied to model security requirements and controls within business processes. This artefact demonstrates my understanding that process modelling is not just about documenting workflows but is a versatile tool that can be applied to various organisational challenges, including security and compliance.
 
-**Commentary:**
+**Thoughts & Commentary:**
 After reviewing this week's lecture materials on Business Process Modelling, I've gained a much deeper appreciation for how organisations document, analyse, and improve their operations. What initially seemed like simple flowcharting has revealed itself to be a sophisticated discipline that combines strategy, technology, and governance.
 
 The business process repository concept was eye‑opening. It's not just a storage place – it's a governed, centralised hub where models are stored, accessed, collaborated on, and measured. Without clear governance (who can view, edit, approve, or retire models), a repository quickly becomes useless. I now see why defining roles and processes upfront is critical.
