@@ -1,16 +1,198 @@
-## Week 3 | Process Analysis
+## Week 3 | What is Process Analysis?
 <img width="466" height="270" alt="image" src="https://github.com/user-attachments/assets/7f1f56f9-9ec3-48ce-8a8e-33189829b41e" />
 
-**Introduction to Process Analysis**
-Process analysis is the first stage of Phase 2 in the BPM Life Cycle Framework (ABPMP International, 2019, p. 130). It identifies and examines all process-related activities and measures the operations and effectiveness of those activities in meeting the organisation's goals. According to the BPM CBOK® Guide, a process is defined as a "defined set of sequential or parallel activities that achieve a particular, definable, measurable result" (ABPMP International, 2019, p. 130). In the context of BPM, a business process is specifically understood as an end-to-end set of activities that delivers a product or service to a customer.
+Process analysis is the first stage of Phase 2 in the BPM Life Cycle Framework (ABPMP International, 2019, p. 130). It is defined as the systematic examination of all process-related activities to measure the operations and effectiveness of those activities in meeting the organisation's goals (ABPMP International, 2019, p. 130).
 
-Process analysis serves several critical purposes in organisations. It evaluates how efficiently the organisation is working to meet its objectives, helps redesign processes to better meet organisational goals, identifies obsolete processes, and enables informed decisions about adapting to changing environments (ABPMP International, 2019, p. 131). The analysis can be triggered by various events including continuous monitoring, strategic planning, performance issues, new technologies, mergers and acquisitions, or regulatory requirements (ABPMP International, 2019, p. 133).
+According to the BPM CBOK® Guide, a process is "a defined set of sequential or parallel activities that achieve a particular, definable, measurable result" (ABPMP International, 2019, p. 130). In the context of BPM, a business process is understood as an end-to-end set of activities that delivers a product or service to a customer.
 
-The analysis process requires establishing and assigning roles within a cross-functional team that includes subject matter experts, stakeholders, functional business leaders, and process owners (ABPMP International, 2019, p. 134). Effective process analysis considers how changes to a single process affect other related processes in the end-to-end process, and requires asking the right questions across multiple dimensions including business context, organisational culture, performance measurement, customer interaction, handoffs, business rules, capacity, bottlenecks, variation, cost, human involvement, and process controls (ABPMP International, 2019, p. 137-144).
+In simpler terms, process analysis is the practice of understanding how work gets done, why it gets done that way, and whether it is achieving the desired outcomes.
 
-Information for process analysis can be gathered through various methods including direct observation, one-on-one interviews, written feedback, structured workshops, web conferencing, process mining, and researching existing documentation (ABPMP International, 2019, p. 143). The final step involves documenting the analysis including the overview of the current business environment, purpose of the process, process models, inputs, outputs, gaps in process performance, reasons and causes for gaps, redundancies, expected savings, and recommended solutions (ABPMP International, 2019, p. 149-150).
+**Why is Process Analysis Conducted?**
+Process analysis serves several critical purposes in organisations (ABPMP International, 2019, p. 131):
+<br>
 
-The following four artefacts demonstrate my learning and understanding of key process analysis concepts as covered in the Week 3 lecture and the BPM CBOK® Guide.
+| Purpose | Explanation |
+| :--- | :--- |
+| Evaluate efficiency | Assess how efficiently the organisation is working to meet its objectives |
+| Create shared understanding | Develop a common view of how work currently gets done |
+| Identify improvement opportunities | Redesign processes to better meet organisational goals |
+| Identify obsolete processes | Recognise processes that no longer add value |
+| Inform strategic decisions | Enable informed decisions about adapting to changing environments |
+
+
+**Process analysis can also address specific improvement opportunities including:**
+
+> More efficient operations
+
+> Avoidance and/or mitigation of risks
+
+> Potential blended operations between two organisations
+
+> Impact analysis of pending regulations
+
+(ABPMP International, 2019, p. 131)
+
+<br><br> 
+
+**When is Process Analysis Conducted?**
+Process analysis can be triggered by various events (ABPMP International, 2019, p. 133):
+
+| Trigger | Description |
+| :--- | :--- |
+| Continuous Monitoring | Ongoing evaluation as part of regular operations |
+| Event-Triggered | Specific events such as customer complaints or process failures |
+| Strategic Planning | As part of strategic reviews and planning cycles |
+| Performance Issues | When processes are not meeting performance targets |
+| New Technologies | When new technologies create opportunities for improvement |
+| Merger, Acquisition, or Divestiture | When organisational structures change |
+| Regulatory Requirements | When new regulations require process changes |
+
+<br>
+
+**Methods and Tools for Process Analysis**
+Process analysis employs a variety of methods and tools to gather information and evaluate processes. These can be categorised into information gathering methods and analytical methods.
+
+Information Gathering Methods
+The BPM CBOK® Guide identifies the following methods for gathering information during process analysis (ABPMP International, 2019, p. 143):
+
+
+| Method | Description | When to Use |
+| :--- | :--- | :--- |
+| Direct Observation | Observing employees performing the process in real-time | When you need to see actual behaviour versus documented procedures |
+| One-on-One Interviews | Speaking individually with process participants and stakeholders | When you need in-depth understanding from key individuals |
+| Written Feedback | Collecting written responses through surveys or questionnaires | When you need input from a large number of people |
+| Structured Workshops | Facilitating group sessions to gather insights from multiple stakeholders | When you need collaborative problem-solving and consensus |
+| Web Conferencing | Remote meetings to gather information from distributed teams | When stakeholders are geographically dispersed |
+| Process Mining | Using event logs and data to discover and analyse actual process behaviour | When you need objective, data-driven insights |
+| Researching Existing Documentation | Reviewing process manuals, policies, and existing models | When you need historical context and documented procedures |
+
+
+<br>
+
+**Analytical Methods**
+The BPM CBOK® Guide outlines the following analytical methods used to evaluate processes (ABPMP International, 2019, p. 149-150):
+
+
+| Method | Description | When to Use |
+| :--- | :--- | :--- |
+| Cost Analysis | Identifying and quantifying the costs associated with process activities | When cost reduction is a primary objective |
+| Root Cause Analysis | Investigating the underlying causes of process deficiencies or failures | When you need to understand why problems occur |
+| Cycle Time/Duration Analysis | Measuring the time required to complete process activities | When time reduction or efficiency is a priority |
+| Sensitivity/What-if Analysis | Exploring how changes to variables impact process outcomes | When you need to test different scenarios |
+| Risk Analysis | Identifying and evaluating risks associated with process activities | When risk management is a concern |
+
+<br>
+
+**Process Analysis Questions**
+Effective process analysis requires asking the right questions across multiple dimensions. The following table outlines the key dimensions and questions to consider (ABPMP International, 2019, p. 137-144):
+
+
+| Dimension | Key Questions |
+| :--- | :--- |
+| Business Context | Why does this process exist? How does it align with strategy? |
+| Organisational Culture | How does the culture support or hinder this process? |
+| Performance Measurement | How is process performance measured? Are the right metrics used? |
+| Customer Interaction | How does this process interact with customers? What is the customer experience? |
+| Handoffs | Where do handoffs occur between departments or roles? Are they smooth? |
+| Business Rules | What rules govern how the process operates? Are they documented? |
+| Capacity | Does the process have adequate capacity? Are resources sufficient? |
+| Bottlenecks | Where do delays or constraints occur? What causes them? |
+| Variation | How consistent is the process output? What causes variation? |
+| Cost | What are the costs associated with the process? Are they justified? |
+| Human Involvement | What roles and skills are required? Are staff trained appropriately? |
+| Process Controls | What controls ensure quality and compliance? Are they effective? |
+
+<br>
+
+
+**Sample Process Analysis: Customer Onboarding Scenario**
+
+The following example demonstrates how process analysis might be conducted in a real organisational context.
+
+Scenario Background
+A financial services organisation is experiencing customer complaints about the time it takes to onboard new clients. The organisation decides to conduct a process analysis to identify the causes of delays and opportunities for improvement.
+
+**Step 1: Planning and Scoping**
+The organisation forms a cross-functional team including subject matter experts, stakeholders, functional business leaders, and process owners (ABPMP International, 2019, p. 134). The team scopes the analysis to focus on the end-to-end customer onboarding process, from initial application to account activation. They identify that this is a high-impact process because it is:
+
+Customer-facing
+
+Has high revenue impact
+
+Is critical to coordinate across multiple departments
+
+(ABPMP International, 2019, p. 136)
+
+**Step 2: Information Gathering**
+The team gathers information using multiple methods (ABPMP International, 2019, p. 143):
+
+| Method | Application in This Scenario |
+| :--- | :--- |
+| Direct Observation | Observing onboarding specialists processing applications |
+| Interviews | Speaking with specialists, managers, and compliance officers |
+| Process Mining | Analysing system logs to discover actual process behaviour |
+| Documentation Review | Examining existing process manuals and policies |
+
+<br>
+
+**Step 3: Analysis**
+The team conducts the following analyses:
+
+
+| Analysis Type | Application in This Scenario |
+| :--- | :--- |
+| Cost Analysis | Identifying expenses associated with each activity |
+| Cycle Time Analysis | Measuring how long each activity takes |
+| Bottleneck Analysis | Identifying where delays occur |
+
+(ABPMP International, 2019, p. 149-150)
+
+The team asks the right questions across multiple dimensions (ABPMP International, 2019, p. 137-144):
+
+<br>
+
+
+| Dimension | Questions Asked |
+| :--- | :--- |
+| Business Context | Does this process align with the organisation's customer experience strategy? |
+| Handoffs | Where are the delays occurring between departments? |
+| Bottlenecks | Which activities are causing the longest delays? |
+| Human Involvement | Are the right resources allocated to the right activities? |
+| Performance Measurement | Are the current metrics capturing the right information? |
+
+**Findings**
+The analysis reveals that:
+
+Customer data verification is the primary bottleneck (average 3 days)
+
+Handoffs between the front office and back office create delays
+
+Some compliance checks are redundant and can be eliminated
+
+**Documentation**
+The team documents the analysis including the following items (ABPMP International, 2019, p. 149-150):
+
+
+| Documentation Item | Content in This Scenario |
+| :--- | :--- |
+| Overview of current business environment | Context for the process analysis |
+| Purpose of process | Why the onboarding process exists |
+| Process model | Visual representation of the current process |
+| What it does | Description of process activities |
+| How it is done | Detailed explanation of process execution |
+| Inputs to process | Application forms, customer data |
+| Outputs from process | Activated accounts, welcome materials |
+| Gaps in process performance | Delays, customer complaints |
+| Reasons and causes for gaps | Verification bottlenecks, handoff delays |
+| Redundancies in the process | Duplicate compliance checks |
+| Expected savings | Reduced onboarding time, improved customer satisfaction |
+| Recommended solutions | Streamline verification, automate handoffs |
+
+<br>
+
+
+Artefacts Demonstrating Learning
+The following four artefacts demonstrate my learning and understanding of key process analysis concepts as covered in the Week 3 lecture and the BPM CBOK® Guide:
 
 ### SOPA – A Framework for Sustainability-Oriented Process Analysis and Re-Design
 Artefact Type: Scholarly Article
@@ -54,30 +236,35 @@ This study challenged my assumption that analysts follow systematic, structured 
 
 The study directly connects to the Week 3 lecture's discussion of process analysis techniques, particularly the importance of asking the right questions about bottlenecks, variations, and human involvement (Information Systems, 2025, p. 12). The BPM CBOK® Guide emphasises that process analysis should identify underlying factors contributing to deficiencies or failures, enabling targeted interventions for process improvement (ABPMP International, 2019, p. 149-150). This research demonstrates that achieving this goal requires better support for analysts, including improved tools and training for multi-source analysis. This artefact has influenced my thinking by highlighting the gap between ideal and actual practice. I now recognise that effective root-cause analysis requires awareness of cognitive biases and analytical limitations.
 
-### Process Analysis Techniques for Business Analysts
+### Business Analysis Explained in Under 10 Minutes
 Artefact Type: YouTube Video
-Source: 'Process Analysis Techniques for Business Analysts' 2025, YouTube, 15 June, viewed 8 August 2026, https://www.youtube.com/watch?v=EXAMPLE.
+Source: David McLachlan 2025, 'Business Analysis Explained in Under 10 Minutes', YouTube, 17 March, viewed 8 August 2026, https://www.youtube.com/watch?v=STVRW9UzS48.
 
 **Summary**
 
-This YouTube video provides a comprehensive overview of process analysis techniques specifically designed for business analysts. The tutorial covers key methods including value-added analysis, root-cause analysis, bottleneck identification, and waste elimination. It demonstrates how to apply these techniques in real-world business scenarios using practical examples and case studies. The video also discusses common pitfalls in process analysis and provides tips for effective stakeholder engagement during analysis projects. Published in June 2025, this resource offers accessible, practical instruction for both beginners and experienced practitioners.
+This YouTube video, created by David McLachlan, provides a concise yet comprehensive overview of business analysis fundamentals. Published in March 2025, the video has garnered over 82,000 views, reflecting its relevance and popularity among business analysis practitioners. The tutorial distills core business analysis concepts into an accessible format, covering the key principles, processes, and techniques that underpin effective business analysis practice. It introduces viewers to the foundational elements of business analysis including identifying business needs, analysing processes, gathering requirements, and recommending solutions that deliver value to stakeholders. The video also touches on the broader context of business analysis, explaining how it connects people, data, systems, and strategy to drive organisational improvement.
 
 **Justification**
 
-What I found most valuable about this video was how it bridged the gap between theoretical concepts and practical application. Before watching, I understood process analysis conceptually but lacked confidence in applying the techniques to real business scenarios. The practical demonstrations helped me understand how to translate BPM theory into actionable analysis steps.
+What I found most valuable about this video was how it distilled complex business analysis concepts into an accessible and engaging format. Before watching, I understood process analysis as a distinct activity, but this video helped me appreciate how it fits within the broader discipline of business analysis. The presenter's ability to explain key concepts clearly and concisely made the content highly accessible, which is particularly valuable for someone developing foundational understanding.
 
-This video directly reinforced the Week 3 lecture's guidance that process analysis should first focus on high-value or high-impact processes (ABPMP International, 2019, p. 136). The discussion of bottleneck identification, cost analysis, and root-cause analysis aligned with the lecture's coverage of analytical methods (ABPMP International, 2019, p. 149-150). The video also demonstrated the importance of scoping the depth of analysis and considering how changes to a single process affect other related processes (ABPMP International, 2019, p. 134-135). This video is meaningful because it demonstrated that effective process analysis requires not just knowledge of frameworks but also practical skills in stakeholder engagement and documentation. This 2025 resource has significantly improved my confidence in conducting process analysis.
+This video directly reinforced the Week 3 lecture's guidance that process analysis serves to create a common understanding of how work gets done and helps redesign processes to better meet organisational goals (ABPMP International, 2019, p. 131). The video's discussion of identifying business needs, analysing processes, and recommending solutions aligns with the BPM CBOK® Guide's description of process analysis as identifying and examining all process-related activities to measure their effectiveness in meeting organisational goals (ABPMP International, 2019, p. 130). This 2025 resource is meaningful because it provides an accessible entry point to understanding business analysis while demonstrating how process analysis fits within the broader organisational context. The video has helped me connect the theoretical concepts from the lecture to practical application in real-world business contexts.
 
 **Reference List**
 ABPMP International 2019, BPM CBOK® Version 4.0: Guide to the Business Process Management Common Body of Knowledge, Association of Business Process Management Professionals, ISBN: 9781704809342, viewed 8 August 2026, https://www.abpmp.org/page/guide_BPM_CBOK.
 
-Klessascheck, F, Weber, I & Pufahl, L 2025, 'SOPA: a framework for sustainability-oriented process analysis and re-design in business process management', Information Systems and e-Business Management, vol. 23, issue 2, pp. 489-537.
+David McLachlan 2025, 'Business Analysis Explained in Under 10 Minutes', YouTube, 17 March, viewed 8 August 2026, https://www.youtube.com/watch?v=STVRW9UzS48.
 
-'Process Analysis Techniques for Business Analysts' 2025, YouTube, 15 June, viewed 8 August 2026, https://www.youtube.com/watch?v=EXAMPLE.
+Klessascheck, F, Weber, I & Pufahl, L 2025, 'SOPA: a framework for sustainability-oriented process analysis and re-design in business process management', Information Systems and e-Business Management, vol. 23, issue 2, pp. 489-537.
 
 'Root-cause analysis of business processes: How humans utilize multiple sources of information to explain observations' 2025, Information Systems, vol. 134, October–November, article 102578.
 
 Stierle, M, Kraume, K & Matzner, M 2025, 'Process Analytics – Data-driven Business Process Management', arXiv preprint, 23 December.
+
+
+
+<br><br>
+
 
 **AI Use Declaration** In accordance with the AI Assessment Scale for this unit, I used AI tools for planning, idea development, and research during the preparation of this e-portfolio. Specifically, I used AI to:
 
