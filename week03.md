@@ -275,3 +275,6 @@ Idea Organisation: AI assisted in structuring the e-portfolio format and ensurin
 Content Refinement: After conducting my own research and developing my understanding of the artefacts, I used AI to help refine and articulate my reflections clearly and concisely, ensuring alignment with the learning outcomes and lecture content.
 
 All final content has been written in my own words, and I have critically evaluated all AI-generated suggestions to ensure accuracy, relevance, and academic integrity. The selection of artefacts and the interpretations presented in the justifications reflect my own understanding of BPM concepts as developed through the unit lectures, tutorials, and independent study.
+
+
+GITHUB LINK: https://github.com/jbmacatulad/COIT20253/blob/main/README.md
