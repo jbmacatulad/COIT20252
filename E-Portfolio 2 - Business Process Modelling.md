@@ -1,5 +1,78 @@
 # E-Portfolio 2 – Business Process Modelling
 
+
+**Week 3 | What is Process Analysis?**
+
+Process analysis is the first stage of Phase 2 in the BPM Life Cycle Framework (ABPMP International, 2019, p. 130). It is defined as the systematic examination of all process-related activities to measure the operations and effectiveness of those activities in meeting the organisation's goals (ABPMP International, 2019, p. 130).
+
+According to the BPM CBOK® Guide, a process is "a defined set of sequential or parallel activities that achieve a particular, definable, measurable result" (ABPMP International, 2019, p. 130). In the context of BPM, a business process is understood as an end-to-end set of activities that delivers a product or service to a customer.
+
+In simpler terms, process analysis is the practice of understanding how work gets done, why it gets done that way, and whether it is achieving the desired outcomes.
+
+**Why is Process Analysis Conducted?**
+Process analysis serves several critical purposes in organisations (ABPMP International, 2019, p. 131):
+<br>
+
+| Purpose | Explanation |
+| :--- | :--- |
+| Evaluate efficiency | Assess how efficiently the organisation is working to meet its objectives |
+| Create shared understanding | Develop a common view of how work currently gets done |
+| Identify improvement opportunities | Redesign processes to better meet organisational goals |
+| Identify obsolete processes | Recognise processes that no longer add value |
+| Inform strategic decisions | Enable informed decisions about adapting to changing environments |
+
+
+**Process analysis can also address specific improvement opportunities including:**
+
+> More efficient operations
+
+> Avoidance and/or mitigation of risks
+
+> Potential blended operations between two organisations
+
+> Impact analysis of pending regulations
+
+(ABPMP International, 2019, p. 131)
+
+<br><br> 
+
+**When is Process Analysis Conducted?**
+Process analysis can be triggered by various events (ABPMP International, 2019, p. 133):
+
+| Trigger | Description |
+| :--- | :--- |
+| Continuous Monitoring | Ongoing evaluation as part of regular operations |
+| Event-Triggered | Specific events such as customer complaints or process failures |
+| Strategic Planning | As part of strategic reviews and planning cycles |
+| Performance Issues | When processes are not meeting performance targets |
+| New Technologies | When new technologies create opportunities for improvement |
+| Merger, Acquisition, or Divestiture | When organisational structures change |
+| Regulatory Requirements | When new regulations require process changes |
+
+<br>
+
+**Methods and Tools for Process Analysis**
+Process analysis employs a variety of methods and tools to gather information and evaluate processes. These can be categorised into information gathering methods and analytical methods.
+
+Information Gathering Methods
+The BPM CBOK® Guide identifies the following methods for gathering information during process analysis (ABPMP International, 2019, p. 143):
+
+
+| Method | Description | When to Use |
+| :--- | :--- | :--- |
+| Direct Observation | Observing employees performing the process in real-time | When you need to see actual behaviour versus documented procedures |
+| One-on-One Interviews | Speaking individually with process participants and stakeholders | When you need in-depth understanding from key individuals |
+| Written Feedback | Collecting written responses through surveys or questionnaires | When you need input from a large number of people |
+| Structured Workshops | Facilitating group sessions to gather insights from multiple stakeholders | When you need collaborative problem-solving and consensus |
+| Web Conferencing | Remote meetings to gather information from distributed teams | When stakeholders are geographically dispersed |
+| Process Mining | Using event logs and data to discover and analyse actual process behaviour | When you need objective, data-driven insights |
+| Researching Existing Documentation | Reviewing process manuals, policies, and existing models | When you need historical context and documented procedures |
+
+
+<br>
+
+
+
 ### Artefact 1 – Quality and Accuracy in BPMN Modelling
 
 **Artefact Type:** Scholarly journal article
