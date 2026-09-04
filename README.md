@@ -10,3 +10,6 @@
 1. [Business Process Management](./week02.md)
 1. [Process Analysis](./week03.md)
 1. [Business Process Modelling](./week04.md)
+1. [Business Process Modelling](./week04.md)
+1. [Business Process Modelling](./week04.md)
+1. [Business Process Modelling](./week04.md)
