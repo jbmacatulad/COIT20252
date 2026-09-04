@@ -14,8 +14,8 @@
 1. [The BPM Professional & BPM CBOK®](./week01.md)
 1. [Business Process Management](./week02.md)
 1. [Process Analysis](./week03.md)
-1. [Business Process Modelling](./week04.md)
-1. [Business Process Modelling Part2](./week05.md)
-1. [Process Design & Process Performance Measurement](./week06.md)
-1. [Process Transformation & Architecture](./week07.md)
+1. [Business Process Modelling](./week4.md)
+1. [Business Process Modelling Part2](./week5.md)
+1. [Process Design & Process Performance Measurement](./week6.md)
+1. [Process Transformation & Architecture](./week7.md)
 
