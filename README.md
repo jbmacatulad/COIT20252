@@ -5,6 +5,11 @@
 - Campus: Melbourne
 - Unit Coordinator / Tutor: Dr. Ahsan Morshed | Dr. Naveed Ali
 
+- ## Assessment E-Portfolios
+1. [E-Portfolio 1 – Process Analysis](eportfolio1-process-analysis.md)
+2. [E-Portfolio 2 – Business Process Modelling](eportfolio2-business-process-modelling.md)
+3. [E-Portfolio 3 – Robotic Process Automation and Process Cybersecurity](eportfolio3-rpa-process-cybersecurity.md)
+
 - ## Weekly Journal Entries
 1. [The BPM Professional & BPM CBOK®](./week01.md)
 1. [Business Process Management](./week02.md)
@@ -13,3 +18,4 @@
 1. [Business Process Modelling Part2](./week05.md)
 1. [Process Design & Process Performance Measurement](./week06.md)
 1. [Process Transformation & Architecture](./week07.md)
+
