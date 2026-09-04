@@ -17,7 +17,7 @@ I chose this artefact because it changed how I judge process-model quality. Prev
 **Artefact Type:** Own work – BPMN swimlane model
 **Tool:** Bizagi Modeler, 2026
 
-<img width="499" height="281" alt="image" src="https://github.com/user-attachments/assets/f1114413-1d78-48e9-bfe3-61e5dc761fa4" />
+<img width="837" height="472" alt="image" src="https://github.com/user-attachments/assets/7071e002-6f20-4bf6-ab87-aaed09354c9d" />
 
 
 
@@ -77,3 +77,5 @@ Idea Organisation: AI assisted in structuring the e-portfolio format and ensurin
 Content Refinement: After conducting my own research and developing my understanding of the artefacts, I used AI to help refine and articulate my reflections clearly and concisely, ensuring alignment with the learning outcomes and lecture content.
 
 All final content has been written in my own words, and I have critically evaluated all AI-generated suggestions to ensure accuracy, relevance, and academic integrity. The selection of artefacts and the interpretations presented in the justifications reflect my own understanding of BPM concepts as developed through the unit lectures, tutorials, and independent study.
+
+**GITHUB LINK: https://github.com/jbmacatulad/COIT20252/blob/main/E-Portfolio%202%20-%20Business%20Process%20Modelling.md**
