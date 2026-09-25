@@ -14,6 +14,8 @@ Robotic Process Automation (RPA) uses software bots to automate repetitive and r
 
 <img width="596" height="422" alt="image" src="https://github.com/user-attachments/assets/10c4e226-c928-4aeb-aabb-6318558f8788" />
 
+**Figure 1.** RPA process used in the procurement function of the case organisation.
+Source: Picoli and Bin (2025, p. 7).
 
 <br><br>
 
@@ -30,7 +32,9 @@ What stood out to me was how limited the robot’s scope actually was. I previou
 
 <br><br>
 
-<img width="620" alt="Artefact 2 – Critical success factors for implementing RPA" src="PASTE_GITHUB_IMAGE_URL_HERE" />
+<img width="463" height="524" alt="image" src="https://github.com/user-attachments/assets/dfbdf013-b679-453b-b3ac-2da177e1cf71" />
+
+**Figure 2.** Critical success factors across the RPA adoption lifecycle.
 
 <br><br>
 
@@ -47,7 +51,10 @@ What stood out to me was that the difficult question is not simply **“Can we a
 
 <br><br>
 
-<img width="620" alt="Artefact 3 – ASD Annual Cyber Threat Report 2024–25" src="PASTE_GITHUB_IMAGE_URL_HERE" />
+<img width="352" height="166" alt="image" src="https://github.com/user-attachments/assets/8b7a1c41-74fa-4cd6-b08e-ad0ed50a33e0" />
+
+**Figure 3.** Key findings and cybersecurity priorities from Australia's 2024–25 cyber threat environment.
+
 
 <br><br>
 
@@ -60,11 +67,14 @@ The idea of assuming compromise changed how I think about process cybersecurity.
 ### Artefact 4 – My Cybersecurity Risk and Control Matrix
 
 **Artefact Type:** Own work – cybersecurity risk assessment  
-**Context:** XYZ University Enrolment System, 2026
+**Context:** XYZ University Enrolment System, 2026 (Week 8 XYZ University hypothetical case study)
 
 <br><br>
 
-<img width="820" alt="Artefact 4 – XYZ University cybersecurity risk and control matrix" src="PASTE_GITHUB_IMAGE_URL_HERE" />
+<img width="425" height="235" alt="image" src="https://github.com/user-attachments/assets/04a23c86-a9bf-4103-bbc9-a1b46840d94f" />
+
+**Figure 4.** Cybersecurity risk and control assessment for the XYZ University enrolment process.
+Source: Own work (2026).
 
 <br><br>
 
