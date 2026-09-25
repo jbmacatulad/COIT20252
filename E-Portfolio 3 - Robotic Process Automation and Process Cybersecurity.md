@@ -4,18 +4,16 @@ Robotic Process Automation (RPA) uses software bots to automate repetitive and r
 
 <br><br>
 
-
 ### Artefact 1 – RPA in Procurement Transformation
 
 **Artefact Type:** Scholarly industry case study  
-**Source:** Picoli and Bin (2025)
-
-<br><br>
+<br>
 
 <img width="596" height="422" alt="image" src="https://github.com/user-attachments/assets/10c4e226-c928-4aeb-aabb-6318558f8788" />
 
 **Figure 1.** RPA process used in the procurement function of the case organisation.
 Source: Picoli and Bin (2025, p. 7).
+**Source:** Picoli and Bin (2025)
 
 <br><br>
 
@@ -28,13 +26,13 @@ What stood out to me was how limited the robot’s scope actually was. I previou
 ### Artefact 2 – Critical Success Factors for RPA
 
 **Artefact Type:** Scholarly journal article  
-**Source:** Ge et al. (2025)
 
 <br><br>
 
 <img width="463" height="524" alt="image" src="https://github.com/user-attachments/assets/dfbdf013-b679-453b-b3ac-2da177e1cf71" />
 
 **Figure 2.** Critical success factors across the RPA adoption lifecycle.
+**Source:** Ge et al. (2025)
 
 <br><br>
 
@@ -47,14 +45,13 @@ What stood out to me was that the difficult question is not simply **“Can we a
 ### Artefact 3 – Australia’s Cyber Threat Environment
 
 **Artefact Type:** Australian Government industry report  
-**Source:** Australian Signals Directorate (2025)
 
 <br><br>
 
 <img width="352" height="166" alt="image" src="https://github.com/user-attachments/assets/8b7a1c41-74fa-4cd6-b08e-ad0ed50a33e0" />
 
 **Figure 3.** Key findings and cybersecurity priorities from Australia's 2024–25 cyber threat environment.
-
+**Source:** Australian Signals Directorate (2025)
 
 <br><br>
 
@@ -67,14 +64,14 @@ The idea of assuming compromise changed how I think about process cybersecurity.
 ### Artefact 4 – My Cybersecurity Risk and Control Matrix
 
 **Artefact Type:** Own work – cybersecurity risk assessment  
-**Context:** XYZ University Enrolment System, 2026 (Week 8 XYZ University hypothetical case study)
+**Context:** XYZ University Enrolment System, 2026 (XYZ University hypothetical case study from Week 8 CQU Lecture)
 
 <br><br>
 
 <img width="425" height="235" alt="image" src="https://github.com/user-attachments/assets/04a23c86-a9bf-4103-bbc9-a1b46840d94f" />
 
 **Figure 4.** Cybersecurity risk and control assessment for the XYZ University enrolment process.
-Source: Own work (2026).
+**Source:** Own work (2026).
 
 <br><br>
 
@@ -109,4 +106,4 @@ Content Refinement: AI was used to help refine the clarity and organisation of m
 
 The cybersecurity risk-and-control matrix represents my practical application of the concepts covered in the unit. I reviewed and checked all source information, citations and AI-assisted suggestions before submission.
 
-**GITHUB LINK: ADD LINK AFTER COMMIT**
+**GITHUB LINK: https://github.com/jbmacatulad/COIT20252/blob/main/E-Portfolio%203%20-%20Robotic%20Process%20Automation%20and%20Process%20Cybersecurity.md**
