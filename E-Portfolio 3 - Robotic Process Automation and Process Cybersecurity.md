@@ -81,7 +81,8 @@ CQUniversity 2026, *COIT20252 Business Process Management: Week 8 – Process Te
 
 Ge, Y, Xia, K, Asif, M, Ersoy, A & Shahzad, MF 2025, ‘Critical success factors for implementing robotic process automation in the hotel industry’, *Scientific Reports*, vol. 15, article 26909, pp. 1–15. DOI: 10.1038/s41598-025-11757-6
 
-Herrera, G, Crisóstomo, JA & Dávila, A 2025, ‘Automatización robótica de procesos aplicado a los procesos de compra: un caso de la industria’, *Entre Ciencia e Ingeniería*, vol. 19, no. 37, pp. 35–40. DOI: 10.31908/19098367.2970
+Picoli, L & Bin, A 2025, ‘The strategic transformation of procurement by technological adoption: implementation and use of Robotic Process Automation’, *Gestão & Produção*, vol. 32, e10223. DOI: 10.1590/1806-9649-2025v32e10223
+
 
 ---
 
