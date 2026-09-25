@@ -12,7 +12,8 @@ Robotic Process Automation (RPA) uses software bots to automate repetitive and r
 
 <br><br>
 
-<img width="620" alt="Artefact 1 – RPA implementation in procurement" src="PASTE_GITHUB_IMAGE_URL_HERE" />
+<img width="596" height="422" alt="image" src="https://github.com/user-attachments/assets/10c4e226-c928-4aeb-aabb-6318558f8788" />
+
 
 <br><br>
 
